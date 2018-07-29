@@ -1,0 +1,205 @@
+-----Spotify Log Entry End-----
+
+ist: Backstreet Boys
+Song title: I Want It That Way
+Album name: The Hits--Chapter One
+URL Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=1c4db7802cdb4f76bd6482d6aa15e153
+=============================
+-----OMDB Log Entry Start-----
+
+Processed on:
+Sat Jul 28 2018 08:07:16 GMT-0700 (Pacific Daylight Time)
+
+terminal commands:
+C:\Program Files\nodejs\node.exe,C:\Users\diana\Desktop\code\liri-node-app\liri.js,movie-this,the devil wears prada
+
+Data Output: 
+
+Movie Title: The Devil Wears Prada
+Year: 2006
+IMDB rating: 6.9
+Rotten Tomatoes Rating: 75%
+Country: USA, France
+Language: English, French
+Plot: A smart but sensible new graduate lands a job as an assistant to Miranda Priestly, the demanding editor-in-chief of a high fashion magazine.
+Actors: Meryl Streep, Anne Hathaway, Emily Blunt, Stanley Tucci
+
+-----OMDB Log Entry End-----
+
+-----Tweets Log Entry Start-----
+
+Processed at: 
+Sat Jul 28 2018 08:07:55 GMT-0700 (Pacific Daylight Time)
+
+terminal commands: 
+C:\Program Files\nodejs\node.exe,C:\Users\diana\Desktop\code\liri-node-app\liri.js,my-tweets
+
+Data Output: 
+
+1. Tweet: Y'all know this is for a homework assignment, right? :)
+Tweeted on: Wed Jul 25 06:39:41 +0000 2018
+
+2. Tweet: Just sending my first tweet :)
+Tweeted on: Wed Jul 25 06:39:18 +0000 2018
+
+3. Tweet: Hello Twitter! #myfirstTweet
+Tweeted on: Wed Jul 25 06:38:59 +0000 2018
+
+-----Tweets Log Entry End-----
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Sat Jul 28 2018 09:46:29 GMT-0700 (Pacific Daylight Time)
+
+terminal commands:
+C:\Program Files\nodejs\node.exe,C:\Users\diana\Desktop\code\liri-node-app\liri.js,movie-this,drive
+
+Data Output: 
+
+Movie Title: Drive
+Year: 2011
+IMDB rating: 7.8
+Rotten Tomatoes Rating: 93%
+Country: USA
+Language: English, Spanish
+Plot: A mysterious Hollywood stuntman and mechanic moonlights as a getaway driver and finds himself in trouble when he helps out his neighbor.
+Actors: Ryan Gosling, Carey Mulligan, Bryan Cranston, Albert Brooks
+
+-----OMDB Log Entry End-----
+
+-----Tweets Log Entry Start-----
+
+Processed at: 
+Sat Jul 28 2018 09:46:48 GMT-0700 (Pacific Daylight Time)
+
+terminal commands: 
+C:\Program Files\nodejs\node.exe,C:\Users\diana\Desktop\code\liri-node-app\liri.js,my-tweets
+
+Data Output: 
+
+3. Tweet: Hello Twitter! #myfirstTweet
+Tweeted on: Wed Jul 25 06:38:59 +0000 2018
+
+1. Tweet: Y'all know this is for a homework assignment, right? :)
+Tweeted on: Wed Jul 25 06:39:41 +0000 2018
+
+-----Tweets Log Entry End-----
+
+2. Tweet: Just sending my first tweet :)
+Tweeted on: Wed Jul 25 06:39:18 +0000 2018
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Sat Jul 28 2018 09:48:34 GMT-0700 (Pacific Daylight Time)
+
+terminal commands:
+C:\Program Files\nodejs\node.exe,C:\Users\diana\Desktop\code\liri-node-app\liri.js,movie-this,the matrix
+
+Data Output: 
+
+Movie Title: The Matrix
+Year: 1999
+IMDB rating: 8.7
+Rotten Tomatoes Rating: 87%
+Country: USA
+Language: English
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+
+-----OMDB Log Entry End-----
+
+-----Tweets Log Entry Start-----
+
+Processed at: 
+Sat Jul 28 2018 09:48:49 GMT-0700 (Pacific Daylight Time)
+
+terminal commands: 
+C:\Program Files\nodejs\node.exe,C:\Users\diana\Desktop\code\liri-node-app\liri.js,my-tweets
+
+Data Output: 
+
+1. Tweet: Y'all know this is for a homework assignment, right? :)
+Tweeted on: Wed Jul 25 06:39:41 +0000 2018
+
+2. Tweet: Just sending my first tweet :)
+Tweeted on: Wed Jul 25 06:39:18 +0000 2018
+
+3. Tweet: Hello Twitter! #myfirstTweet
+Tweeted on: Wed Jul 25 06:38:59 +0000 2018
+
+-----Tweets Log Entry End-----
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Sat Jul 28 2018 09:56:21 GMT-0700 (Pacific Daylight Time)
+
+terminal commands:
+C:\Program Files\nodejs\node.exe,C:\Users\diana\Desktop\code\liri-node-app\liri.js,movie-this,the matrix
+
+Data Output: 
+
+Movie Title: The Matrix
+Year: 1999
+IMDB rating: 8.7
+Rotten Tomatoes Rating: 87%
+Country: USA
+Language: English
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+
+-----OMDB Log Entry End-----
+
+-----Tweets Log Entry Start-----
+
+Processed at: 
+Sat Jul 28 2018 09:56:46 GMT-0700 (Pacific Daylight Time)
+
+terminal commands: 
+C:\Program Files\nodejs\node.exe,C:\Users\diana\Desktop\code\liri-node-app\liri.js,my-tweets
+
+Data Output: 
+
+1. Tweet: Y'all know this is for a homework assignment, right? :)
+Tweeted on: Wed Jul 25 06:39:41 +0000 2018
+
+2. Tweet: Just sending my first tweet :)
+Tweeted on: Wed Jul 25 06:39:18 +0000 2018
+
+3. Tweet: Hello Twitter! #myfirstTweet
+Tweeted on: Wed Jul 25 06:38:59 +0000 2018
+
+-----Tweets Log Entry End-----
+
+-----Tweets Log Entry Start-----
+
+Processed at: 
+Sat Jul 28 2018 14:36:19 GMT-0700 (Pacific Daylight Time)
+
+terminal commands: 
+C:\Program Files\nodejs\node.exe,C:\Users\diana\Desktop\code\liri-node-app\liri.js,my-tweets
+
+Data Output: 
+
+-----Tweets Log Entry Start-----
+
+Processed at: 
+Sat Jul 28 2018 14:41:38 GMT-0700 (Pacific Daylight Time)
+
+terminal commands: 
+C:\Program Files\nodejs\node.exe,C:\Users\diana\Desktop\code\liri-node-app\liri.js,my-tweets
+
+Data Output: 
+
+-----Tweets Log Entry Start-----
+
+Processed at: 
+Sat Jul 28 2018 14:42:40 GMT-0700 (Pacific Daylight Time)
+
+terminal commands: 
+C:\Program Files\nodejs\node.exe,C:\Users\diana\Desktop\code\liri-node-app\liri.js,my-tweets
+
+Data Output: 
+
